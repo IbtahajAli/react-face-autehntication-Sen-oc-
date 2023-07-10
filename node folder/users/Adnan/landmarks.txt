@@ -1,0 +1,26 @@
+Name : Adnan
+      face Measurments : 
+  rightEye: {
+    x:472
+    y:266
+  }
+  leftEye: {
+    x:531
+    y:267
+  }
+  nose: {
+    x:500
+    y:300
+  }
+  leftEar: {
+    x:565
+    y:274
+  }
+  RightEar: {
+    x:442
+    y:271
+  }
+  Mouth: {
+    x:499
+    y:320
+  }

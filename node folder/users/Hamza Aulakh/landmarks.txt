@@ -1,0 +1,26 @@
+Name : Hamza Aulakh
+      face Measurments : 
+  rightEye: {
+    x:205
+    y:296
+  }
+  leftEye: {
+    x:305
+    y:311
+  }
+  nose: {
+    x:259
+    y:363
+  }
+  leftEar: {
+    x:326
+    y:318
+  }
+  RightEar: {
+    x:127
+    y:288
+  }
+  Mouth: {
+    x:243
+    y:395
+  }
